@@ -5,6 +5,7 @@ import com.fasterxml.jackson.module.kotlin.KotlinModule
 import okhttp3.MediaType
 import okhttp3.MultipartBody
 import okhttp3.RequestBody
+import org.springframework.stereotype.Service
 
 import retrofit2.Retrofit
 import retrofit2.converter.jackson.JacksonConverterFactory
