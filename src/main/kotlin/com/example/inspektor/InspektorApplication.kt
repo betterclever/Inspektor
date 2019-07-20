@@ -3,6 +3,9 @@ package com.example.inspektor
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
+// Wifi: Headout-Atithi / ++
+// Password: AtithiDevoBhava134
+
 @SpringBootApplication
 class InspektorApplication
 
